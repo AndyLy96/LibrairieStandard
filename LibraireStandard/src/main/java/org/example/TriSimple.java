@@ -21,8 +21,5 @@ public class TriSimple {
 
         Collections.sort(liste);
         System.out.println(liste);
-
-
-
     }
 }
